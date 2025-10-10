@@ -61,11 +61,4 @@ Developed a **low-cost AI powered IoT-based health monitoring system** . Focused
 
 ---
 
-## 📊 GitHub Stats
-
-![DJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjayjoshi2310&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayjoshi2310&layout=compact&theme=tokyonight)
-
----
-
 ⭐️ *Always learning, always building — from circuits to systems.*
