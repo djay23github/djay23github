@@ -1,18 +1,25 @@
 # 👋 Hi, I’m Dhananjay Joshi (DJ)
 
-🎓 **MS in Electrical & Computer Engineering (VLSI Design)** – *University of Minnesota, Twin Cities*  
-💡 **B.Tech in Electronics** – *Sardar Patel Institute of Technology, Mumbai*  
-🔬 Passionate about **Digital & Memory Circuit Design**, **EDA Flow Development**, and **VLSI System Architecture**  
+🎓 **MS in Electrical & Computer Engineering (VLSI Design)** – *University of Minnesota, Twin Cities, USA*  
+💡 **B.Tech in Electronics** – *Sardar Patel Institute of Technology, Mumbai, India*  
+🔬 Passionate about **Digital & Memory Circuit Design**, **EDA Flow Development**, **VLSI System Architecture** and **AI**  
 
 ---
 
 ## ⚙️ Areas of Interest
-- **Circuit Design** – Standard Cells, SRAM, Decoders, Optimization  
-- **Physical Design** – Synthesis to GDSII, Power/Area/Timing closure  
-- **EDA Automation** – OpenLane, TCL/Python scripting, Flow development  
-- **Architecture & Systems** – CPU datapath, Cache prefetchers, CNN accelerators  
+- **Circuit Design** – Standard Cells, SRAM, Decoders, PDK Development  
+- **Physical Design** – RTL to GDSII, Power/Area/Timing closure  
+- **EDA Automation** – TCL/Python scripting, Flow development, Linux   
+- **Architecture & Systems** – CPU Design, Hardware accelerators  
 
 ---
+
+## 🧪 Professional Experience
+**Research Intern @ Autobuddys (Tata Institute of Social Sciences) ( 2022 ) **  
+Developed a **low-cost AI powered IoT-based health monitoring system** . Focused on TCP/IP-based data streaming and low-power embedded design.
+
+---
+
 
 ## 🧠 Technical Skills
 
@@ -24,28 +31,11 @@ Cadence (Virtuoso, Innovus, Genus, Xcelium) • Synopsys (DC, ICC2, VCS, HSpice,
 
 ---
 
-## 💻 Key Projects
+## 💻 Recent Projects
 
 ### 🟣 Block Truncation Coding Unit – *ASIC Flow | Synopsys | ASAP7nm* ( You can view the project repository )  
 End-to-end ASIC implementation (RTL → GDSII) with **12% power reduction** and **5.8% timing improvement**. Verified with MATLAB correlation tests.
 
-### 🟢 Convolutional Neural Network Module – *Cadence Innovus | ASAP7nm*  
-Systolic array-based CNN with **13.4% power savings** using clock gating and multi-Vt optimization. Fully verified on large pixel dataset.
-
-### 🔵 4x16 Decoder for Register File – *Custom Design | HSpice | Virtuoso*  
-Full-custom layout with **6.23% area improvement** and DRC/LVS-clean parasitic extraction.
-
-### 🟡 N-Stage Ring Oscillator – *Custom Design | TCL Automation | FinFET*  
-Parametric ring oscillator generator for arbitrary stages; analyzed frequency and delay across PVT corners.
-
-### 🧩 Best Offset Prefetcher in Cache – *ChampSim | Architecture Simulation*  
-Reduced L2 cache miss rate by **30%** and improved IPC using data-driven memory access prediction.
-
----
-
-## 🧪 Experience
-**Research Intern @ Autobuddys (Tata Institute of Social Sciences)**  
-Developed a **low-cost AI powered IoT-based health monitoring system** . Focused on TCP/IP-based data streaming and low-power embedded design.
 
 ---
 
