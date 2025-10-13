@@ -15,7 +15,7 @@
 ---
 
 ## 🧪 Professional Experience
-**Research Intern @ Autobuddys (Tata Institute of Social Sciences) ( 2022 ) **  
+**Research Intern @ Autobuddys (Tata Institute of Social Sciences) ( 2022 )**  
 Developed a **low-cost AI powered IoT-based health monitoring system** . Focused on TCP/IP-based data streaming and low-power embedded design.
 
 ---
