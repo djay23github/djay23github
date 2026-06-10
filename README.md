@@ -37,17 +37,16 @@ module dhananjay_joshi;
 
   string role        = "Silicon Design Engineer";
   string focus       = "RTL, PD, Circuit Design, DFT, Microarchitecture";
-  string current_clk = "actively_seeking_full_time_asic_roles";
 
   initial begin
-    $display("Designing logic that survives synthesis, timing, and layout.");
+    $display("Actively looking for Full Time Opportunities in the domain.");
   end
 
 endmodule
 ```
 
-I like hardware projects that do not stop at “simulation passed.”
-The interesting part starts when RTL meets constraints, timing reports, congestion, area, leakage, and real implementation trade-offs.
+Trying to understand hardware design beyond simulation.
+The interesting part starts when RTL meets design constraints, timing reports, congestion, area, leakage, and real implementation trade-offs.
 
 ---
 
@@ -99,7 +98,7 @@ The interesting part starts when RTL meets constraints, timing reports, congesti
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top>
 ### AI Assistant for PPA Optimization
 
 <a href="https://github.com/djay23github/AI_Assistant_for_PPA">
