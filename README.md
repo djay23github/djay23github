@@ -98,7 +98,8 @@ The interesting part starts when RTL meets design constraints, timing reports, c
 
 <table>
 <tr>
-<td width="50%" valign="top>
+<td width="50%" valign="top">
+  
 ### AI Assistant for PPA Optimization
 
 <a href="https://github.com/djay23github/AI_Assistant_for_PPA">
