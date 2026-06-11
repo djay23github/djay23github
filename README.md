@@ -23,9 +23,6 @@
 </a>
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=djay23github&label=Silicon%20Visitors&style=flat-square&color=38bdf8" />
-
 </div>
 
 ---
