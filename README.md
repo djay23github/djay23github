@@ -97,17 +97,17 @@ The interesting part starts when RTL meets design constraints, timing reports, c
 <tr>
 <td width="50%" valign="top">
   
-### AI Assistant for PPA Optimization
+### Block Truncation Coding Unit
 
-<a href="https://github.com/djay23github/AI_Assistant_for_PPA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=djay23github&repo=AI_Assistant_for_PPA&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/djay23github/Block_Truncation_Coding_Unit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=djay23github&repo=Block_Truncation_Coding_Unit&theme=tokyonight&hide_border=true" />
 </a>
 
 ```text
-Domain    : EDA automation
-Built     : report/config driven PPA advisor
-Focus     : timing, area, power suggestions
-Signals   : WNS, TNS, utilization, leakage
+Domain    : Image Compression Hardware + 7nm tech node
+Built     : RTL2GDSII Flow using Synopsys Tools
+Focus     : datapath design, STA, Power analysis
+Signals   : pixels, blocks, threshold, compressed data
 ```
 
 </td>
@@ -124,6 +124,40 @@ Domain    : Memory design
 Built     : behavioral + realistic SDRAM models
 Focus     : ACT, READ, WRITE, NOP, timing delay
 Signals   : addr, data, command, bank, latency
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  
+### PacketLinkSoC Design
+
+<a href="https://github.com/djay23github/PacketLink_SoC">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=djay23github&repo=PacketLink_SoC&theme=tokyonight&hide_border=true" />
+</a>
+
+```text
+Domain    : End-to-end ASIC Design Flow
+Built     : UART-SERDES Bridge 
+Focus     : CDC, Macro Integration, Packetization 
+Signals   : tx/rx, fifo_read/write, packet_ready/valid
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Power Management Unit FSM
+
+<a href="https://github.com/djay23github/RTL2GDSII_Power_Management_Unit_Design">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=djay23github&repo=RTL2GDSII_Power_Management_Unit_Design&theme=tokyonight&hide_border=true" />
+</a>
+
+```text
+Domain    : Low-power SoC control flow
+Built     : FSM + verification + PD Flow
+Focus     : states, resets, power control, timing
+Signals   : sleep_req, wakeup, clk_gate, retention
 ```
 
 </td>
