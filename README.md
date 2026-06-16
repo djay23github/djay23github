@@ -41,10 +41,6 @@ module dhananjay_joshi;
 
 endmodule
 ```
-
-Trying to understand hardware design beyond simulation.
-The interesting part starts when RTL meets design constraints, timing reports, congestion, area, leakage, and real implementation trade-offs.
-
 ---
 
 ## Tech Constellation
