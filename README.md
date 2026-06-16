@@ -81,7 +81,6 @@ The interesting part starts when RTL meets design constraints, timing reports, c
 
 ### PDKs / Nodes worked on
 <img src="https://img.shields.io/badge/ASAP7nm-7e22ce?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TSMC16nm-3e25ce?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SkyWater%20130nm-0369a1?style=for-the-badge" />
 
 
