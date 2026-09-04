@@ -18,8 +18,8 @@
 <a href="https://www.linkedin.com/in/dhananjayjoshi2310/">
   <img src="https://img.shields.io/badge/LinkedIn-Dhananjay%20Joshi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:djayjoshi23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-djayjoshi23%40gmail.com-b91c1c?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:dhananjay.joshi.work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dhananjay.joshi.work%40gmail.com-b91c1c?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
@@ -33,7 +33,7 @@
 module dhananjay_joshi;
 
   string role        = "Silicon Design Engineer";
-  string focus       = "RTL, PD, Circuit Design, DFT, Microarchitecture";
+  string focus       = "RTL, PD, Circuit Design, Microarchitecture";
 
   initial begin
     $display("Actively looking for Full Time Opportunities in the domain.");
@@ -80,90 +80,8 @@ endmodule
 <img src="https://img.shields.io/badge/SkyWater%20130nm-0369a1?style=for-the-badge" />
 
 
-</div>
 
 ---
-
-## Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-  
-### Block Truncation Coding Unit
-
-<a href="https://github.com/djay23github/Block_Truncation_Coding_Unit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=djay23github&repo=Block_Truncation_Coding_Unit&theme=tokyonight&hide_border=true" />
-</a>
-
-```text
-Domain    : Image Compression Hardware + 7nm tech node
-Built     : RTL2GDSII Flow using Synopsys Tools
-Focus     : datapath design, STA, Power analysis
-Signals   : pixels, blocks, threshold, compressed data
-```
-
-</td>
-<td width="50%" valign="top">
-
-### SDRAM Module Design
-
-<a href="https://github.com/djay23github/SDRAM-Module-Design">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=djay23github&repo=SDRAM-Module-Design&theme=tokyonight&hide_border=true" />
-</a>
-
-```text
-Domain    : Memory design
-Built     : behavioral + realistic SDRAM models
-Focus     : ACT, READ, WRITE, NOP, timing delay
-Signals   : addr, data, command, bank, latency
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  
-### PacketLinkSoC Design
-
-<a href="https://github.com/djay23github/PacketLink_SoC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=djay23github&repo=PacketLink_SoC&theme=tokyonight&hide_border=true" />
-</a>
-
-```text
-Domain    : End-to-end ASIC Design Flow
-Built     : UART-SERDES Bridge 
-Focus     : CDC, Macro Integration, Packetization 
-Signals   : tx/rx, fifo_read/write, packet_ready/valid
-```
-
-</td>
-<td width="50%" valign="top">
-
-### Power Management Unit FSM
-
-<a href="https://github.com/djay23github/RTL2GDSII_Power_Management_Unit_Design">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=djay23github&repo=RTL2GDSII_Power_Management_Unit_Design&theme=tokyonight&hide_border=true" />
-</a>
-
-```text
-Domain    : Low-power SoC control flow
-Built     : FSM + verification + PD Flow
-Focus     : states, resets, power control, timing
-Signals   : sleep_req, wakeup, clk_gate, retention
-```
-
-</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
 ## What I Am Building Toward
 
 <div align="center">
@@ -191,16 +109,6 @@ flowchart LR
 
 ---
 
-## GitHub Telemetry
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=djay23github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djay23github&layout=compact&theme=tokyonight&hide_border=true" />
-
-
----
-
 ## Connect
 
 <div align="center">
@@ -208,7 +116,7 @@ flowchart LR
 <a href="https://www.linkedin.com/in/dhananjayjoshi2310/">
   <img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:djayjoshi23@gmail.com">
+<a href="mailto:dhananjay.joshi.work@gmail.com">
   <img src="https://img.shields.io/badge/Email-reach%20out-b91c1c?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
